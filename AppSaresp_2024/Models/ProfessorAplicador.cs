@@ -2,5 +2,6 @@
 {
     public class ProfessorAplicador
     {
+        public int Id { get; set; }
     }
 }
