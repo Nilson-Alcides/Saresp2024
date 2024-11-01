@@ -1,6 +1,6 @@
 ﻿namespace AppSaresp_2024.Models
 {
-    public class Aluno
+    public class Alunonovo
     {
         public int Id { get; set; }
         

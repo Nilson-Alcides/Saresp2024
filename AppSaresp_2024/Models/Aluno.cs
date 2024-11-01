@@ -4,11 +4,11 @@
     {
         public int Id { get; set; }
 
-        public Stream Nome { get; set; }
-        public Stream Email { get; set; }
-        public Stream Telefone { get; set; }
-        public Stream Serie { get; set; }
-        public Stream Turma { get; set; }
+        public string Nome { get; set; }
+        public string Email { get; set; }
+        public string Telefone { get; set; }
+        public string Serie { get; set; }
+        public string Turma { get; set; }
         public DateTime DaNasc { get; set; }
     }
 }
